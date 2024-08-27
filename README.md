@@ -5,9 +5,17 @@ PROYECTO DE CATEDRA FASE 1:
 
 Integrantes:
 Christian Javier Rosales Palacios. RP241102
+
 Julio David Rivera Linares. RL241378
+
 Bryan Steven Hernández Polio. HP240512
+
 José Natanael Córdoba Magaña. CM240477
+
+LINK DISEÑOS MOCK UPS:
+
+https://www.figma.com/design/hwR5zBHrkkIxaJl0xVTxRz/Untitled?m=auto&t=CjrYjwlehFq0OemU-1
+
 
 Grupo Teórico:
 Desarrollo de Aplic. Web con Soft. Interpret. en el Cliente DAW404 G02T
